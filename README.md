@@ -14,14 +14,22 @@ Open three terminals (one for the Backend and two for the Frontend instances):
     - ``` bash
         cd backend
         ```
-    - `python -m venv env`
-    - `env\Scripts\activate`
-    - `pip install -r requirements.txt`
-    - `python app.py`
+    - ``` bash
+        python -m venv env
+        ```
+    - ``` bash
+        env\Scripts\activate
+        ```
+    - ``` bash
+        pip install -r requirements.txt
+        ```
+    - ``` bash
+        npm start localhost:3000
+        ```
 
 - Frontend Terminal 1
     - `cd frontend`
-    - `npm start localhost:3000`
+    - ``
 
 - Frontend Terminal 2
     - `cd frontend`
