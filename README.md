@@ -11,7 +11,9 @@ This repository contains a Chat App built using Flask and React, leveraging sock
 Open three terminals (one for the Backend and two for the Frontend instances):
 
 - Backend Terminal
-    - `cd backend`
+    - ``` bash
+        cd backend
+        ```
     - `python -m venv env`
     - `env\Scripts\activate`
     - `pip install -r requirements.txt`
