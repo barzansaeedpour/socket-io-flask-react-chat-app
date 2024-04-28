@@ -18,4 +18,4 @@ Open two terminals (for Backend and Frontend):
 - Frontend Terminal
     - `cd frontend`
     - `npm i`
-    - `npm run`
+    - `npm start`
