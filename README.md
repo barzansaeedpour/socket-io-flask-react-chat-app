@@ -14,3 +14,8 @@ Open two terminals (for Backend and Frontend):
     - `env\Scripts\activate`
     - `pip install -r requirements.txt`
     - `python app.py`
+
+- Frontend Terminal
+    - `cd frontend`
+    - `npm i`
+    - `npm run`
